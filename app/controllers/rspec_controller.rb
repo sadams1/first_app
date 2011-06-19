@@ -1,0 +1,2 @@
+class RspecController < ApplicationController
+end
